@@ -25,7 +25,10 @@
   },
   "homepage": "https://github.com/VishwaGauravIn/linkedin-jobs-api#readme",
   "dependencies": {
+    "@n-h-n/linkedin-profile-scraper": "^2.7.3",
     "axios": "^0.27.2",
-    "cheerio": "^1.0.0-rc.12"
+    "cheerio": "^1.0.0-rc.12",
+    "linkedin-jobs-scraper": "^14.1.0",
+    "linkedin-profile-scraper": "^2.3.1"
   }
 }
